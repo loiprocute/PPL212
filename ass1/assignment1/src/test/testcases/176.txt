@@ -1,0 +1,6 @@
+Class Program {
+            Var a : ob = New ob(b[b[b[b[b[a - b]]]]]);
+            get(){
+                    x - y[1];
+            }
+        }

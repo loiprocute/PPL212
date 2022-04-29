@@ -1,0 +1,9 @@
+
+            Class ABC {
+                Val $p,$q,$r: Float = 1., 1.e-3, 12_3.4;
+                Constructor(m,n: Int; p: Float) {
+                    x = m % n + -p;
+                    B::$get();
+                    z = Self.x + Self.y;
+            }
+            }

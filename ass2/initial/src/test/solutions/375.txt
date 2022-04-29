@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Dog),Id(Animal),[MethodDecl(Id(main),Instance,[],Block([])),MethodDecl(Id(Constructor),Instance,[param(Id(a),IntType),param(Id(b),FloatType)],Block([])),MethodDecl(Id(Destructor),Instance,[],Block([]))])])

@@ -1,0 +1,14 @@
+
+        Class Program{
+                main(){
+                    Var flag: Boolean = True;
+                    If(flag == True)
+                    {
+                        Foreach (i In 2 .. 100 By 2)
+                        {
+                            Out.printInt(i);
+                        }
+                    }
+                }
+        }
+        

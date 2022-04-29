@@ -1,0 +1,13 @@
+
+            Class Program {
+                $findMax(arr: Array[Int, 100]) {
+                    Var max: Int = arr[1];
+                    Foreach (i In 2 .. arr.length()) {
+                        If (max < arr[i]) {
+                            max = arr[i];
+                        }
+                    }
+                    Return maxElement;
+                }
+            }
+            

@@ -1,0 +1,8 @@
+
+        Class A : A 
+        { 
+            $testParam(a,b,c:Bool; d:Int)
+            { 
+            {{}}
+            } 
+        }

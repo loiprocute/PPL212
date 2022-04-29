@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(B),Id(C),[MethodDecl(Id(he),Instance,[],Block([AssignStmt(Id(wall),BinaryOp(+,Id(smoke),CallExpr(Id(he),Id(explore),[])))]))]),ClassDecl(Id(Program),[MethodDecl(Id(main),Instance,[param(Id(a),IntType)],Block([Return(BinaryOp(*,Id(a),Id(b)))]))])])

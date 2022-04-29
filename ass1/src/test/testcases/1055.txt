@@ -1,0 +1,8 @@
+
+            Class Main {
+                menuNew() {
+                    test = ABC::$testtest()[7] <= 9;
+                    Return Self.arrlist;
+                }
+            }
+        

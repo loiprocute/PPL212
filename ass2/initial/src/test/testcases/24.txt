@@ -1,0 +1,6 @@
+ 
+            Class A {
+                Var b: Array[Array[Array[Array[Array[Array[Array[Int,1],2],3],4],5],6],7];
+                Var a: Array[Float, 2] = Array(1.2, 3.6);
+            }
+            

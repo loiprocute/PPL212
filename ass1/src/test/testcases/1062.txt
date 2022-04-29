@@ -1,0 +1,16 @@
+
+            Class Program {
+                main() {
+                    Return $A::$namenew + F.getNameThis().stringlist[2];
+                }
+            }
+            Class E {
+                Var b: D;
+                $count__() {
+                    Val r: R = New R();
+                }
+            }
+            Class D: E {
+                Val r: R = New R().deal;
+            }
+        

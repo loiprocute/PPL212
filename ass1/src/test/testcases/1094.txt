@@ -1,0 +1,11 @@
+
+            Class Main {
+                dethodlove() {
+                    Return Self.namemethod();
+                }
+                menuNew() {
+                    test = ABC::$testtest()[7] <= 9;
+                    Return Self.arrlist::hehe;
+                }
+            }
+        

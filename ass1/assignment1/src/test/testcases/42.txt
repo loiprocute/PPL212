@@ -1,0 +1,9 @@
+
+            Class Program {
+
+                Destructor() {
+                    Std.ol().All(1);
+                }
+            }
+
+        

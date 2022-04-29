@@ -1,0 +1,7 @@
+Class Dog : Animal {
+            main(){
+                
+            } 
+            Constructor(a:Int; b:Float){}
+            Destructor(){}
+        }

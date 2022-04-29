@@ -1,0 +1,11 @@
+
+            Class Func {
+                f() {
+                    Foreach (a In b - 1 .. c By 2) {
+                        Foreach (b In c - 1 .. d) {
+
+                        }
+                    }
+                }
+            }
+            

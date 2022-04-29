@@ -1,0 +1,8 @@
+
+            Class Program {
+                Val money : Int = 10;
+                print() {
+                    Return ("I have" +. money) +. "toi";
+                }
+            }
+            

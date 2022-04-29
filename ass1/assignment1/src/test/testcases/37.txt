@@ -1,0 +1,8 @@
+
+
+            Class TEST {
+                Constructor(a,b,c: Int) {
+                    Return x+Self.ad + y + z3 + 4;
+                }
+            }
+        

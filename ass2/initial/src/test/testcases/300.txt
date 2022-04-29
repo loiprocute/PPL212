@@ -1,0 +1,27 @@
+
+        Class A {
+
+        }
+        Class B {
+            foo() { 
+                If (a) {
+                    a = 4;
+                }
+                Elseif (b) {
+                    a = 3;
+                    b = 5;
+                    c = 8;
+                }
+                Elseif (12 == 8) {
+                    r = 1;
+                    pi = 0.3;
+                }
+                Elseif (9) {
+                    r = 6;
+                }
+                Else {
+                    t = myElse;
+                }
+            }
+        }
+        

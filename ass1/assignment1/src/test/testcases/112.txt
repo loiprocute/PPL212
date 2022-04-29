@@ -1,0 +1,8 @@
+
+                Class Rectangle: Shape { 
+                    Var a,b,c: Int = 123_4_5_6,01_2_3,0XA_B;
+                    A(a,b,c: Int; d,e,f Float) {
+
+                    }
+                }
+                

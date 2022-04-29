@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Main),[MethodDecl(Id(dethodlove),Instance,[],Block([Return(CallExpr(Self(),Id(namemethod),[]))])),MethodDecl(Id(menuNew),Instance,[],Block([AssignStmt(Id(test),BinaryOp(<=,ArrayCell(CallExpr(Id(ABC),Id($testtest),[]),[IntLit(7)]),IntLit(9))),Return(FieldAccess(Self(),Id(hehe)))]))])])

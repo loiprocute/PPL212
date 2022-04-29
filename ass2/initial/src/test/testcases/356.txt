@@ -1,0 +1,19 @@
+
+            Class Test {
+                    Constructor(a,b: Int; c: Float){
+                        c = 3.14 * a * b;
+                    }
+                    Destructor(){ }
+                    isGreater(a,b: Int){
+                        Return a > b;
+                    }
+                    isLess(a,b: Int)
+                    {
+                        Return a < b;
+                    }
+                    isEqual(a,b:Int)
+                    {
+                        Return a == b;
+                    }
+        }
+        

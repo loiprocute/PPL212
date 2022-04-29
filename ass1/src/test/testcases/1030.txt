@@ -1,0 +1,10 @@
+
+            Class Program {
+                main() {
+                    Return New B(A);
+                }
+            }
+            Foreach (index In 0 .. 100 By 1 * 2 / 3 + a - b.name()) {
+                Continue;
+            }
+        

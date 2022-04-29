@@ -1,0 +1,10 @@
+
+            Class ABC {
+                r() {
+                    Continue;
+                    Foreach(xs In 1 .. arr[3][4] By classA.x) {
+                        Return xs;
+                    }   
+                }
+            }
+            

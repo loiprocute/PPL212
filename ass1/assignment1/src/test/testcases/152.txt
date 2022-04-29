@@ -1,0 +1,13 @@
+
+        Class Test{
+            Var attribute: Int;
+            testExpression(){
+                Self::attribute = 1915040;
+            }
+        }
+        Class Program{
+            main(){
+                Return "Test";
+            }
+        }
+        

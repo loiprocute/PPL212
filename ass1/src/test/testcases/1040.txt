@@ -1,0 +1,21 @@
+
+            Class test {
+                Var x, y: Int = 1, 2;
+                method(a,b,c:Int; r:Func) {
+                    If (x + y >= 0) {
+                        Foreach(i In 1 .. 100 By exp) {
+                            If (7 + 8) {
+                                If (fo >= to) {
+                                    Var $a: Int = 0;
+                                    Continue;
+                                }
+                            }
+                        }
+                    }
+                    Elseif (a * 45) {
+                        If (22) { }
+                        Else { Return; }
+                    }
+                }
+            }
+        

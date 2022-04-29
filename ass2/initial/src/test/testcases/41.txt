@@ -1,0 +1,8 @@
+
+            Class tttt {
+                test(num: Int) {
+                    Var x: Int = -a;
+                    Val temp: Boolean = !False;
+                }
+            }
+            

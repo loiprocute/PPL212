@@ -1,0 +1,7 @@
+
+            Class build {
+                func() {
+                    Return (f.f1(1_2_3)).f2("HelloWord").f3();
+                }
+            }
+            

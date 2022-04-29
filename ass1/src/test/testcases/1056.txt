@@ -1,0 +1,7 @@
+
+            Class Program {
+                dethodlove() {
+                    Return Self.namemethod();
+                }
+            }
+        

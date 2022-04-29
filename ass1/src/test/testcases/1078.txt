@@ -1,0 +1,14 @@
+
+            Class Program {
+                main(){
+
+                }
+            }
+
+            Class classname {
+                Var name, namename: String;
+            }
+            Class classnew {
+                Val $height: Float = 1.75, "abc";
+            }
+        

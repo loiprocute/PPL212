@@ -1,0 +1,7 @@
+
+            Class Ret {
+                f() { 
+                Return (arr[3][4][5] == a[a[3]]) || (xyz.mnp + New X(34) - a::$get());
+                }
+            }
+            

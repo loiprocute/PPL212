@@ -1,0 +1,4 @@
+Class Program{ 
+            Var r: Float = 0xA001;
+            Val $a, $b: Boolean = True, True;
+        }

@@ -1,0 +1,8 @@
+
+            Class method {
+                $getNameMethod() {
+                    Out.print(Bag.$name);
+                    Return Cat.getname;
+                }
+            }
+        

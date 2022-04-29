@@ -1,0 +1,15 @@
+
+            Class Program {
+                main() {
+                }
+            }
+            Class D: E {
+                Val r: R = New R();
+            }
+            Class E {
+                Var b: D;
+                count__() {
+                    Return A::$namenew + F.getNameThis().stringlist[2];
+                }
+            }
+        

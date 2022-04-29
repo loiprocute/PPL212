@@ -1,0 +1,7 @@
+
+        Class Test{
+            Test(x, y: Int){
+                Var a: Int = x; 
+                a = 1 + 2 * A.getMethod(x,y);
+            }
+        }

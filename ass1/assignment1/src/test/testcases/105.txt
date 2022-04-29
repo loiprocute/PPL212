@@ -1,0 +1,8 @@
+
+                Class Rectangle: Shape {
+                    Var a,b,c: String = "em","yeu","ppl";
+                    getArea() {
+
+                    }
+                }
+                

@@ -1,0 +1,11 @@
+
+            Class Cat {
+
+                Constructor() {
+                    Self.initial = valuenew + New a() +(23+2);
+                }
+                Destructor() {
+                    Self.initial =0;
+                }
+            }
+        

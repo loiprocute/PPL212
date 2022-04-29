@@ -1,0 +1,8 @@
+
+            Class ProgramName {
+                main() {
+                    b = MainT::$getname()[6];
+                    a = MainT[0][13][22].getlow();
+                }
+            }
+        

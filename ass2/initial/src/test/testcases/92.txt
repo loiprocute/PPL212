@@ -1,0 +1,7 @@
+
+            Class Des {
+                Destructor() {
+                    You.Delete().All(0);
+                }
+            }
+            

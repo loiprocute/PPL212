@@ -1,0 +1,10 @@
+
+            Class A : B{
+                Constructor() {
+                    Return 1;
+                }
+                Constructor(b: Int; c: Float) {
+                    Return b + c;
+                }
+            }
+            

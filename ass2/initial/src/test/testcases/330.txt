@@ -1,0 +1,10 @@
+
+        Class Dog : Animal 
+        { 
+            $test(a, b, c:Int)
+            { 
+                If (a==2){
+                    Return a;
+                }
+            } 
+        }

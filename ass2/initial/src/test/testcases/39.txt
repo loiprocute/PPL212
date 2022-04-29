@@ -1,0 +1,9 @@
+
+            Class A {
+                swap(xp: Int; yp: Int) {
+                    Var temp: Int = xp;
+                    xp = yp;
+                    yp = temp;
+                }
+            }
+            

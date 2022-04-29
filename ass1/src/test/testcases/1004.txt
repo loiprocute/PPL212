@@ -1,0 +1,12 @@
+
+            Class Program {
+                main() {
+                    Stand1.Stand2.getVector();
+                }
+            }
+            Class myClass {
+                $method() {
+                    Return Self.sound()[2].test;
+                }
+            }
+        

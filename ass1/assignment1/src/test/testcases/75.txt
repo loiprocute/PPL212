@@ -1,0 +1,10 @@
+
+            Class Cat {
+                returnMethod() {
+                }
+                Constructor() {
+                    Self.initial = valuenew+ ad::$dhs;
+                }
+
+            }
+        

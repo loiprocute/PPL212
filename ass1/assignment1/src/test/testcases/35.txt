@@ -1,0 +1,10 @@
+
+            Class Program {
+                main() {
+                    b = name::$test().b();
+                }
+            }
+            Class A {
+                Return New Bowling(A);
+            }
+        

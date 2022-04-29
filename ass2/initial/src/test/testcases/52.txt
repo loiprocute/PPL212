@@ -1,0 +1,10 @@
+
+            Class Program {
+                $test(a,b: Int; x: String) {
+                        _1 = X.attr;
+                        _2 = Self.method(x+y,arr[arr[3]&&arr[4]],5);
+                        _3 = sel::$1attr;
+                        _4 = sel::$static_method();
+                    }
+                }
+            

@@ -1,0 +1,12 @@
+Class Program{
+                main(){ 
+                    If(flag == True)
+                    {
+                        Foreach (i In 2 .. 100 )
+                        {
+                            Out.printInt(i);
+                        }
+                    }
+                }
+        }
+        

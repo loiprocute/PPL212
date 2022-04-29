@@ -1,0 +1,13 @@
+
+            Class Function {
+
+            }
+            Class Program: Function {
+
+            }
+            Class Method: Program {
+                main() {
+                    ThisFunction = New Function(a,b,c,d,e,f);
+                }
+            }
+            

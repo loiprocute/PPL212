@@ -1,0 +1,13 @@
+
+                Class Rectangle: Shape { 
+                    Var $a: Shape = A::$methodA(B.func(-2))+a+(2+2);
+                    $methodA(){
+                        If(a.c>3){
+                            Return a+2;
+                        }
+                        Else{
+                            Return New a();
+                        }
+                    }
+                }
+                

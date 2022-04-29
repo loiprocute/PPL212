@@ -1,0 +1,19 @@
+
+                Class Shape {
+                    Val $numOfShape,y: Int = 0,3;
+                    get(){
+                        Val numOfShape,y: Int = 0,3+2;
+                        If(y <4){
+                            Foreach (i In 1 .. 100 By 2+2) {
+                                    Out.printInt(i);
+                                }
+                        }
+                        Elseif(y==2){
+                            Return 1;
+                        }
+
+                        
+                    }
+    
+                }
+                

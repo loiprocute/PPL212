@@ -1,0 +1,8 @@
+
+        Class Program {
+
+            main(){
+                Var temp: Array[Int,3] = a::$method1();
+                temp = b::$method1(temp, .1e+2);
+            }
+    }

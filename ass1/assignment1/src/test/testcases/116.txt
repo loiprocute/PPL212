@@ -1,0 +1,10 @@
+
+                Class Rectangle: Shape { 
+                    A() {
+                        Var a: Int;
+                        Val b: Float = .e-1;
+                        Var c,d: Float;
+                        Val e,f,g: Int = 1,2,3;
+                    }
+                }
+                

@@ -1,0 +1,14 @@
+
+                Class Rectangle: Shape { 
+                    A() {
+                        Var a: Int;
+                        If(expr){
+                        }
+                        Elseif(expr){
+                            lhs = expr;
+                        }
+                        Elseif(expr){
+                        }
+                    }
+                }
+                

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(myClassname),[AttributeDecl(Instance,ConstDecl(Id(vari),IntType,CallExpr(FieldAccess(Id(MainTEST),Id(a)),Id(getat),[])))])])

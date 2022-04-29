@@ -1,0 +1,6 @@
+
+                Class Rectangle: Shape { 
+                    Var $a: Shape = New Shape().Rectangle();
+
+                }
+                

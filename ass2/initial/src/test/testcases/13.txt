@@ -1,0 +1,7 @@
+
+        Class AA  
+        { 
+            method1(){}
+            $method2(){}
+            
+        }

@@ -1,0 +1,7 @@
+
+            Class D96 {
+                Construc() {
+                    Val arrlist: Array[Array[Array[Float, 00],0x7_45],4];
+                }
+            }
+        

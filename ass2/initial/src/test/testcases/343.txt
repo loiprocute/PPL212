@@ -1,0 +1,9 @@
+
+        Class Student{
+            Constructor(name, class: String; age: Int)
+            {
+                Self.name = name;
+                Self.class = class;
+                Self.age = age;
+            }
+        }

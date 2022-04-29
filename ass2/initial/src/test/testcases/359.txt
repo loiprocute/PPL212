@@ -1,0 +1,14 @@
+
+            Class Test {
+                    Constructor(a,b: Int){
+                        Var x: Array[Int,2];
+                        x[0] = a;
+                        x[1] = b;
+                    }
+                    Destructor(){ }
+                    getArray()
+                    {
+                        Return x+a[0];
+                    }
+        }
+        

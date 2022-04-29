@@ -1,0 +1,10 @@
+
+        Var attr1: Int = 10;
+        Class A{
+            Var attribute: Int;
+            testif(){
+                
+            }
+        }
+
+        

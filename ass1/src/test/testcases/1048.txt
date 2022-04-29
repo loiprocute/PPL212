@@ -1,0 +1,5 @@
+
+            Class ReStringName {
+                Var stringname: GoodStudent = New ReString("ThaiLinh");
+            }
+        

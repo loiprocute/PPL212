@@ -1,0 +1,15 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                Var real : Array[Int,0x123];
+                If(a[1] + New A(2)){
+                    Var a: Shape = A::$methodA(B.func(-2));
+                    Foreach(New A().attr2 In New expr1(New expr2()) .. a[1] + a[2] By Array(1,2,3)){
+                        a = !a;
+                    }
+                    Return B::$attr;
+                }
+            }
+        }
+        

@@ -1,0 +1,10 @@
+
+            Class Cat {
+                Constructor() {
+                    Self.initial = valuenew+New a();
+                }
+                Destructor() {
+                    Cat.remove();
+                }
+            }
+        

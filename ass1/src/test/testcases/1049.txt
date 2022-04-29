@@ -1,0 +1,7 @@
+
+            Class myClassname {
+                _method() {
+                    Name.a[3][2] = Self.set().down.set();
+                }
+            }
+        

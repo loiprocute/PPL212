@@ -1,0 +1,7 @@
+
+        Class simple {
+            main()
+            {
+                Self.foo(2) + Self.foo() - a[2] * Self.foo(New Dejavu());
+            }
+        

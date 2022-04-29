@@ -1,0 +1,4 @@
+Class Program : Animal { 
+            Var a : String;
+            Var b, c: Int = 1,2; 
+        }

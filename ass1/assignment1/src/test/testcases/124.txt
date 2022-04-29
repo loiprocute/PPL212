@@ -1,0 +1,9 @@
+
+                Class Rectangle: Shape { 
+                    Var a: Array[Array[String,5],3] = Array(
+                        Array("em","yeu","thay","Duy"),
+                        Array("em","yeu","ppl"),
+                        Array("em","yeu","btl1")
+                    );
+                }
+                

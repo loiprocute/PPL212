@@ -1,0 +1,15 @@
+
+            Class Hayate {
+                main() {
+                    If(k > 5+a::$da){
+                        Foreach (x In 5 .. 2) {
+                            Out.printInt(arr[x]);
+                            i=i+2+a[2+a[2]];
+                        }
+                    }
+                    Else{
+                        Return a[2+a[2+2]];
+                    }
+                }
+            }
+        

@@ -1,0 +1,12 @@
+
+            Class Program {
+                main() {
+                    b = name::$test();
+                }
+            }
+            Class Truuu: Paper {
+                Love(){
+                    Truu.nameMethod();
+                }
+            }
+        

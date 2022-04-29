@@ -1,0 +1,7 @@
+
+            Class Program {
+                main() {
+                    Console.log(arr[3][4][5]);
+                }
+            }
+            

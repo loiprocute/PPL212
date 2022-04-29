@@ -1,0 +1,7 @@
+
+            Class X : ABC {
+                f() {
+                    Return;
+                }
+            }
+            

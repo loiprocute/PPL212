@@ -1,0 +1,7 @@
+
+        Class A : B {
+            $sum(a, b, c:Int){
+                Return a + b + c;
+            } 
+            
+        }

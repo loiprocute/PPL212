@@ -1,0 +1,12 @@
+
+            Class Program {
+                main(){
+                    test = ABC::$testtest()[7].test <= 9;
+                }
+            }
+            Class Design {
+                Destructor() {
+                    Standar.Del().All(1);
+                }
+            }
+        

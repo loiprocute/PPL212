@@ -1,0 +1,9 @@
+
+            Class Hayate {
+                main() {
+                    If(k[2] > 5){
+                        Return abc;
+                    }
+                }
+            }
+        

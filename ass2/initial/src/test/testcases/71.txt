@@ -1,0 +1,8 @@
+
+            Class A {
+                method() { }
+                $method() { }
+                main() { }
+                main(a,b: Int) { }
+            }
+            

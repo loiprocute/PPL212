@@ -1,0 +1,12 @@
+
+            Class Program {
+                main() {
+
+                }
+            }
+            Class TEST {
+                Constructor(a,b,c: Int) {
+                    Return Self.x + y + z + 465;
+                }
+            }
+        

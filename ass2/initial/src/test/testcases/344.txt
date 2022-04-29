@@ -1,0 +1,11 @@
+Class Name{
+                Var first_name : String = "Hieu";
+                Var middle_name : String = "Minh";
+                Var last_name : String = "Loc";
+
+                checkName(string: String)
+                {
+                    Return (((Self.last_name +. Self.middle_name) +. Self.first_name) ==. string);
+                }
+        }
+        

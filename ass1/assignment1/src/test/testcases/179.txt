@@ -1,0 +1,8 @@
+
+        Class simple {
+        main()
+        {
+            A[New B(b)].func(2,4.0);
+        }
+        }
+        

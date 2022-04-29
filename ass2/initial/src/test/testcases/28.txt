@@ -1,0 +1,19 @@
+
+        Class B
+        { 
+            main()
+            {
+                If(True) {
+                     Var a: Float = 1.2e-1;
+                } Elseif(False) {
+                    Val a: Int = 2;
+                } Elseif(True && False) {
+                    a = a - 1;
+                } Elseif(False || False) {
+                    a = a + 1;
+                } Else {
+                    a = 0;
+                }
+            }
+           
+        }

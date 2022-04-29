@@ -1,0 +1,7 @@
+
+            Class thisName {
+                D () {
+                    Return Self.name || Self.age;
+                }
+            }
+            

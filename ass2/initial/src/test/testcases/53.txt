@@ -1,0 +1,8 @@
+
+            Class Program{
+                main(a,b : Int ; c,d: String ; E,F :Array[Int,10]){}
+                main(){
+                    
+                }
+            }
+            

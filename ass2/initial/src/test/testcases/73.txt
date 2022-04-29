@@ -1,0 +1,5 @@
+
+            Class Program {
+                Var Z : Int = This.a(b.c(b.d)).e.ea().ea();
+            }
+            

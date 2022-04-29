@@ -1,0 +1,9 @@
+ 
+            Class M {
+                 Test_for_stmt(a, b, c: Int) {
+                    Foreach (a In b .. c + 1) {
+                        Return Self.method() + a[b];
+                    }
+                }
+            }
+            

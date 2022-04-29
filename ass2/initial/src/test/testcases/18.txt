@@ -1,0 +1,15 @@
+
+        Class Program
+        { 
+            main(){
+                Return;
+            }
+            $testIf_stmt()
+            { 
+                If (a == b)
+                {
+                    Var div, mod, mul : Float = 0.25, 1.2e5, 0.3;
+                    c = div / mod * mul;
+                }
+            } 
+        }

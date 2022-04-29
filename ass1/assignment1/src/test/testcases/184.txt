@@ -1,0 +1,11 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                {
+                    Self.func(A);
+                }
+                
+            }
+        }
+        

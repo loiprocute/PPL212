@@ -1,0 +1,11 @@
+
+        Class A{
+            Var acb: String;
+            foo(){
+                Var real : Array[Float,0x123267];
+                If(a[1] + New A(2)){
+                    (ysc[a[1][2][3]]).attr1 = Array(Array(Array(Array())));
+                }
+            }
+        }
+        

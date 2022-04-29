@@ -1,0 +1,10 @@
+
+            Class nameclass {
+                new_method () {
+                    a = name::$test;
+                    b = name::$test().b();
+                    c = run;
+                    d = run();
+                }
+            }
+        

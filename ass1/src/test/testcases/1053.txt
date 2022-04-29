@@ -1,0 +1,9 @@
+
+            Class myVarName {
+                Constructor(arr: Array[String, 20]) {
+                    Self.a = arr[7];
+                    Self.b = arr[9];
+                    Self.c = arr[3][4];
+                }
+            }
+        

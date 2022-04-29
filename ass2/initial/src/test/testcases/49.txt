@@ -1,0 +1,8 @@
+
+            Class Program {
+                main() {
+                    NewYear::$print("Happy New Year");
+                }
+            }
+            
+            

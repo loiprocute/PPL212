@@ -1,0 +1,7 @@
+
+            Class A {
+                test() {
+                    Val a: Float = Self.a.b.c().t[1];
+                }
+            }
+            

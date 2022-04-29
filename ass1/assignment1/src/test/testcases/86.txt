@@ -1,0 +1,9 @@
+
+            Class Hayate {
+                main() {
+                    If(k::$d(2)> 5){
+                        Return abc;
+                    }
+                }
+            }
+        

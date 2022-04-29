@@ -1,0 +1,20 @@
+
+            Class Airi: Name {
+                Constructor(airi, batman : Int)
+                {
+                    result.print("Cons");
+                }
+                Destructor()
+                {
+                    result.print("Dest");
+                }
+                $_getMethodTest() {
+                    Return 22 + 8.8 - rt + !gh >= 8 || 9 || (2 + 3);
+                }
+            }
+            Class Program {
+                main() {
+                    a = (Lubo + DieuThuyen) && Nakroth + Laviel + Veres;
+                }
+            }
+        

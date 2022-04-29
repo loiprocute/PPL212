@@ -1,0 +1,7 @@
+
+            Class E {
+                method() {
+                    Return a[1][2+a.id][3] + className.b()[4];
+                }
+            }
+            

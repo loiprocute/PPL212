@@ -1,0 +1,5 @@
+
+        Class Dog : Animal 
+        { 
+            Val objA: A = New A();
+        }

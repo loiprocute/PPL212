@@ -1,0 +1,9 @@
+
+            Class Program : B{
+                Var a : Program;
+                main() {
+                    a = New B();
+                }
+            }
+            
+            

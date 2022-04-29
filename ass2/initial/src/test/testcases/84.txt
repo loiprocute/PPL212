@@ -1,0 +1,11 @@
+
+            Class Test84{
+                
+            }
+            Class NextTest
+            {
+                $Next(){
+                    Return Test84.Number + 1;
+                }
+            }
+            

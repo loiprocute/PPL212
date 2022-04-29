@@ -1,0 +1,11 @@
+
+            Class Test {
+                    Constructor(a,b: Int; c: Float){
+                        c = 3.14 * a * b;
+                    }
+                    Destructor(){ }
+                    concatTwoString(a,b: String){
+                        Return a +. b;
+                    }
+        }
+        

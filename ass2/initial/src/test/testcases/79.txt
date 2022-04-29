@@ -1,0 +1,15 @@
+
+            Class Program {
+                test() {
+                    Foreach (i In 0 .. 0727 By 9) {
+                        Foreach (j In i .. 0XFF) {
+                            Foreach (k In j .. 0B1011) {
+                                Foreach (r In i .. k By "T") {
+                                    Program.print(r);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            

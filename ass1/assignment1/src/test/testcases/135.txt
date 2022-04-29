@@ -1,0 +1,6 @@
+
+                Class Rectangle: Shape { 
+                    Var $a: Shape = New Shape("String1").Rectangle(New func().$func2(0x1010 || 0b1010));
+
+                }
+                

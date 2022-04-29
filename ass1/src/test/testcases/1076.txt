@@ -1,0 +1,12 @@
+
+            Class Program {
+                main() {
+                    Var a,b: Array[String, 7.9];
+                }
+            }
+            Class NEWCLASS {
+                attr(a, b: Float) {
+                    Return abc[4] != bcd[1].name;
+                }
+            }
+        

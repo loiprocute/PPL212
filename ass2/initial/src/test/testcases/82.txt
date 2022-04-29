@@ -1,0 +1,6 @@
+
+            Class Object
+            {
+                Var obj: A;
+            }
+            

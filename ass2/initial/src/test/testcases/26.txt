@@ -1,0 +1,9 @@
+
+        Class _ { 
+            $For(a: Float; b: Int){
+                Foreach(a In 27 .. 2) {
+                Var temp: Int;
+                 temp = b - a;
+                }
+            }
+        }

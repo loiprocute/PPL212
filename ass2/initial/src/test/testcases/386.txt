@@ -1,0 +1,16 @@
+
+        Class D
+        { 
+            $test_if_stmt()
+            { 
+                Var a, b, c : Int = 0, 0, 0;
+                If (a == b)
+                {
+                    b = c;
+                }
+                Elseif (c == a)
+                {
+                    b = a;
+                }
+            } 
+        }

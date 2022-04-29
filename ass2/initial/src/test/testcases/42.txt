@@ -1,0 +1,7 @@
+
+            Class B {
+                main(){
+                    Return a[b[a[1][c[d[2][4]]]]];
+                }
+            }
+            

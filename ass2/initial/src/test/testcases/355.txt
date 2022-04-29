@@ -1,0 +1,8 @@
+
+        Class Shape{
+            Var length,width : Int;
+            test()
+            {
+                Return Self.width * Self.length;
+            }
+        }

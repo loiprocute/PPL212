@@ -1,0 +1,5 @@
+
+                Class Rectangle: Shape { 
+                    Var a: Array[Int,2] = Array(Int,0);
+                }
+                

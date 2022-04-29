@@ -1,0 +1,7 @@
+
+                Class Rectangle: Shape { 
+                    A() {
+                        Var a,b,c: Int;
+                    }
+                }
+                

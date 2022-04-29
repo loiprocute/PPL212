@@ -1,0 +1,6 @@
+
+            Class Program1: Program {
+                $main() {}
+                main() {}
+                }
+            

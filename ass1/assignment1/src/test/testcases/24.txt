@@ -1,0 +1,10 @@
+
+            Class ahhaa: hi { }
+            Class Tur {
+                Val one1,two2,three4: Int  1,2;
+                __str1__(a) {
+                    Var one,two,three: Int = 1,2,3;
+                    Val four56,five_2: Int;
+                }
+            }
+            

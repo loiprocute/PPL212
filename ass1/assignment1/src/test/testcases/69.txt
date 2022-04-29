@@ -1,0 +1,19 @@
+
+                Class Rectangle: Shape { 
+                    Var $a: Shape = A::$methodA(B.func(-2))+a+(2+2);
+                    $methodA(){
+                        If(a.c>3){
+                            Return a+2;
+                        }
+                        Else{
+                            Foreach (i In 1 .. 100 By 2) {
+                                Out.printInt(i);
+                                If(i==2){ Continue;}
+                                Else{
+                                    i=New a(2_3+3)+a[2+3][2][2+ab[2]];
+                                }
+                            }
+                        }
+                    }
+                }
+                

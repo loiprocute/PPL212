@@ -1,0 +1,26 @@
+
+                Class Rectangle: Shape { 
+                    Var a: Array[Array[Array[Array[Int,3],2],2],2] = Array(
+                        Array(
+                            Array(
+                                Array(1,2,3),
+                                Array(1+2,2*3,3%4)
+                            ),
+                            Array(
+                                Array(1,2,3),
+                                Array(1+2,2*3,3%4)
+                            )
+                        ),
+                        Array(
+                            Array(
+                                Array(1,2,3),
+                                Array(1+2,2*3,3%4)
+                            ),
+                            Array(
+                                Array(1,2,3),
+                                Array(1+2,2*3,3%4)
+                            )
+                        )
+                    );
+                }
+                

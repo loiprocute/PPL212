@@ -1,0 +1,7 @@
+
+        Class Dog : Animal 
+        { 
+            Val $a : String;
+            Var b, $c: Int;
+            Var d : Bool = True;
+        }

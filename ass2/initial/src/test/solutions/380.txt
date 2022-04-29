@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(A),Id(A),[MethodDecl(Id($testParam),Static,[param(Id(a),ClassType(Id(Bool))),param(Id(b),ClassType(Id(Bool))),param(Id(c),ClassType(Id(Bool))),param(Id(d),IntType)],Block([Block([Block([])])]))])])

@@ -1,0 +1,8 @@
+
+            Class A {
+                main(a,c: Array[String,2]; b: B) {
+                    Program.main();
+                    L::$e();
+                }
+            }
+            

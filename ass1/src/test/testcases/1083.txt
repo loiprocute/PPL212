@@ -1,0 +1,13 @@
+
+            Class Program {
+                main() {
+                }
+            }
+            Class newClassName {
+                Val counter: Int = 150;
+                Val abc, def, rty: Float = 9.4, 6.8, 5.6;
+                PrintOut() {
+                    Return Self.counter * Self.ratetest;
+                }
+            }
+        

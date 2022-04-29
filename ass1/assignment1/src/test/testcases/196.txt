@@ -1,0 +1,9 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                Var real : Array[Int,0x123];
+                funcB(1);
+            }
+        }
+        

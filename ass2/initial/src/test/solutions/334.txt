@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([AssignStmt(Id(test),BinaryOp(<=,ArrayCell(CallExpr(Id(ABC),Id($testtest),[]),[IntLit(7)]),IntLit(9)))]))]),ClassDecl(Id(Design),[MethodDecl(Id(Destructor),Instance,[],Block([Call(CallExpr(Id(Standar),Id(Del),[]),Id(All),[IntLit(1)])]))])])

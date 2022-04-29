@@ -1,0 +1,9 @@
+
+        Class Dog : Animal 
+        { 
+            $test(b, c:Int)
+            { 
+                Var a: Int; 
+                Return  a+b[5][6*a[2+2]+2+v[2]]+ad.id+2+4;
+            }
+        }

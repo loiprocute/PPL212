@@ -1,0 +1,7 @@
+
+            Class gram {
+                method() {
+                    Return a[3][6][9] + className.foo()[3];
+                }
+            }
+        

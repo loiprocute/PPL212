@@ -1,0 +1,19 @@
+
+                Class Shape {
+                    Val $numOfShape,y: Int = 0,3;
+                    get(){
+                        Val $numOfShape,y: Int = 0,3;
+                        If(y <4){
+                            Return 0;
+                        }
+                        Elseif(y==2){
+                            Return 1;
+                        }
+                        Else{
+                            Return Haha;
+                        }
+                        
+                    }
+    
+                }
+                

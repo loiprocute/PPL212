@@ -1,0 +1,9 @@
+
+            Class A: B {
+                main() {
+                    myC.f();
+                    a = ObjB::$f();
+                    Return Self.b;
+                }
+            }
+            

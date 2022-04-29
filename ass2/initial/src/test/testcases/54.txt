@@ -1,0 +1,11 @@
+
+            Class Car: Vehicle {
+                Var model: String = "Mustang";
+                main() {
+                    Val myCar: Car = New Car("ab");
+                    myCar.honk();
+                    Out.printLn(myCar.brand + " " + myCar.model);
+                    Return 0;
+                }
+            }
+            

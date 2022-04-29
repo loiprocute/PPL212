@@ -1,0 +1,8 @@
+
+            Class myVarName {
+                Constructor() {
+                    Self.a = arr[3][4];
+                    Self.d = arr[3+2*2][4+2];
+                }
+            }
+        

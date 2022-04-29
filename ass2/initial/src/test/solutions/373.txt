@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Dog),[MethodDecl(Id($test),Static,[],Block([VarDecl(Id(a),IntType)]))])])

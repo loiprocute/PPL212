@@ -1,0 +1,11 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                Var real : Array[Int,0x123];
+                If(a[1] + New A(2)){
+                    Return B::$attr;
+                }
+            }
+        }
+        

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([VarDecl(Id(flag),BoolType,BooleanLit(True)),If(BinaryOp(==,Id(flag),BooleanLit(True)),Block([For(Id(i),IntLit(2),IntLit(100),IntLit(2),Block([Call(Id(Out),Id(printInt),[Id(i)])])])]))]))])])

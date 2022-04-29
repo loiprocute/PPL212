@@ -1,0 +1,9 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                Self::$a;
+                
+            }
+        }
+        

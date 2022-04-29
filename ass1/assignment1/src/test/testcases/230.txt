@@ -1,0 +1,10 @@
+Class Home {
+            Var a, b: Float;
+            Var x : Int = Home.calculate();
+            calculate(a: Int; b: Boolean) {
+                Val xyz : Int = Home::$star();
+                a = Home::$a(23, abc, check);
+                Return a == 2;
+            }
+        }
+        

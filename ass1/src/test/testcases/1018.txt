@@ -1,0 +1,11 @@
+
+            Class Program {
+                namemethod() {
+                    If (a.x[1] == b) {
+                        Foreach (i In 1 .. random(100, 200) By 2) {
+                            Continue;
+                        }
+                    }
+                }
+            }
+        

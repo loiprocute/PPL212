@@ -1,0 +1,10 @@
+
+            Class Hayate {
+                main() {
+                
+                    If(k[a.e] > 5){
+                        Return abc;
+                    }
+                }
+            }
+        

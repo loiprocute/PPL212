@@ -1,0 +1,8 @@
+
+            Class Program {
+                Var a: Program = New Program(1);
+                main() {
+                    Return a.get()[3][5][7];
+                }
+            }
+            

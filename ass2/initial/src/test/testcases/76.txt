@@ -1,0 +1,9 @@
+
+            Class test {
+                method1(a,b: Int; x: String) {
+                    Break;
+                    Continue;
+                    Return;
+                }
+            }
+            

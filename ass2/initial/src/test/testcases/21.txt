@@ -1,0 +1,9 @@
+
+        Class Gamer 
+        { 
+            main()
+            { 
+                Player::$name = "ProPlayer";
+                skill::$_1 = "Attack" +. "Head";
+            } 
+        }

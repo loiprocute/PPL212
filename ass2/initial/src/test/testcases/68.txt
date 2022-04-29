@@ -1,0 +1,8 @@
+
+            Class check {
+                test(){
+                    a = (a[3])[5];
+                    Return a::$e(1);
+                }
+            }
+            

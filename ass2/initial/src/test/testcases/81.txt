@@ -1,0 +1,16 @@
+
+            Class AAA
+            {
+                main()
+                {
+                    Foreach(i In 0 .. k By 1)
+                    {
+                        c = s.charAt(i);
+                        If(c == 10) {
+                            Return c;
+                        }
+                    }
+                   
+                }
+            }
+            

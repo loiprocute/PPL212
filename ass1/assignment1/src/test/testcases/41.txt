@@ -1,0 +1,7 @@
+
+            Class myVarName {
+                Constructor() {
+                    Self.a = arr[3][4];
+                }
+            }
+        

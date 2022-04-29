@@ -1,0 +1,7 @@
+
+            Class n {
+                method2(a,b: Int; x: String) {
+                    _1 = arr[a[x]];
+                }
+            }
+            

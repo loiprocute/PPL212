@@ -1,0 +1,21 @@
+
+            Class ___ {
+                for_if() {
+                    If (a || b / 2) {
+                        Foreach (i In 0 .. 10 By t <= 0b1) {
+                            If (i/10 + 1 > 10) {
+                                If (y) {
+                                    Return;
+                                }
+                                Elseif (b) {
+                                    Break;
+                                }
+                            }
+                            Else{
+                                Continue;
+                            }
+                        }
+                    }
+                }
+            }
+            

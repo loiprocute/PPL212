@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([AssignStmt(Id(b),CallExpr(Id(name),Id($test),[]))]))]),ClassDecl(Id(Truuu),Id(Paper),[MethodDecl(Id(Love),Instance,[],Block([Call(Id(Truu),Id(nameMethod),[])]))])])

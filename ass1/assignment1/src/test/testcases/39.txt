@@ -1,0 +1,12 @@
+
+        Class bole{
+            Var abc: Int;
+            foo(){
+                Var real : Array[Float,0x12324];
+                If(a[1] + New A(2)){
+                    x=2;
+                }
+                Return 0;
+            }
+        }
+        

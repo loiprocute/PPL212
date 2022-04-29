@@ -1,0 +1,7 @@
+
+            Class A {
+                test(){
+                    Return New A(b,New B(New C(Program.GetNum(Program::$Pi))));
+                }
+                }
+            

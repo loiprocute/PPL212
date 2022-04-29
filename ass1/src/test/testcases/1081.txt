@@ -1,0 +1,7 @@
+
+            Class Program {
+                main(a: Int; b: Float; e,g,h,f: Boolean) {
+                    Return New AB().BC().CD();
+                }
+            }
+        

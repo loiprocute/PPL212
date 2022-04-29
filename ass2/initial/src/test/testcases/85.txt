@@ -1,0 +1,6 @@
+
+            Class A {
+                main(args: Array[String, 0x1111111]) {
+                }
+            }
+            

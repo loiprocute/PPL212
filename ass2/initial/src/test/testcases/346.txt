@@ -1,0 +1,17 @@
+
+        Class Test{
+            Val a,b: Student;
+            test(){
+                Foreach(i In 1 .. 10 By 2)
+                {
+                    If(i == a.ID)
+                    {
+                        Continue;
+                    } 
+                    Else
+                    {
+                        Break;
+                    }
+                }
+            }
+        }

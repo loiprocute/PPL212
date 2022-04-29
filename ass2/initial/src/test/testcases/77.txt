@@ -1,0 +1,7 @@
+
+            Class checkConstr {
+                Constructor (a, r, t, w: Float) {
+                    Self.constr = a + r + t * w;
+                }
+            }
+            

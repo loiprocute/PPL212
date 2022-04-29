@@ -1,0 +1,16 @@
+
+            Class SortedIntList{
+                ##call IntList constructor##
+            }
+            ##override add##
+            Class ABC{
+            $add(a,c,b: Int; e,f,g: Float){
+                ##search for location to insert value##
+                Val pos: Int = 0;
+                Foreach(index In -3 .. -1 By -100){
+                    pos = 3;
+                }
+                super.insert(pos, value);
+            }
+            }
+        

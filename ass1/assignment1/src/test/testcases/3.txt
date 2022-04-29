@@ -1,0 +1,9 @@
+
+                Class Shape {
+                    Val $numOfShape,y: Int = 0,3;
+                    get(){
+                        
+                    }
+    
+                }
+                

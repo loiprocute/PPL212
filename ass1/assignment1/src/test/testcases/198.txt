@@ -1,0 +1,10 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                Var real : Array[Int,0x123];
+                If(!(B != 2))
+                    Return NULL;
+            }
+        }
+        

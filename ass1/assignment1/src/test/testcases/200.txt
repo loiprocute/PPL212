@@ -1,0 +1,12 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                Var real : Array[Int,0x123];
+                If(a[1] + New A(2)){
+                    Var a: Shape = A::$methodA(B.func(-2));
+                    Return $A::B;
+                }
+            }
+        }
+        

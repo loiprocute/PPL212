@@ -1,0 +1,14 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                Var real : Array[Int,0x123];
+                If(a[1] + New A(2)){
+                    Return B::$attr;
+                }
+                Elseif(A::$func(-a[2]) % B.func(a[2]+a[3])){
+                    Return B.funcB(New Ob(0B101010 + New B(2)));
+                }
+            }
+        }
+        

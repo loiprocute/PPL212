@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(Constructor),Instance,[param(Id(a),IntType),param(Id(b),IntType)],Block([VarDecl(Id(x),ArrayType(2,IntType)),AssignStmt(ArrayCell(Id(x),[IntLit(0)]),Id(a)),AssignStmt(ArrayCell(Id(x),[IntLit(1)]),Id(b))])),MethodDecl(Id(Destructor),Instance,[],Block([])),MethodDecl(Id(getArray),Instance,[],Block([Return(Id(x))]))])])

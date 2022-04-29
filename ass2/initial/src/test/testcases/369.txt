@@ -1,0 +1,5 @@
+
+            Class myClassname {
+                Val vari: Int = MainTEST.a.getat();
+            }
+        

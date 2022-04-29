@@ -1,0 +1,8 @@
+
+                Class Rectangle: Shape {
+                    Var a,b,c: Int = 0b1,00,0X0;
+                    getArea() {
+
+                    }
+                }
+                

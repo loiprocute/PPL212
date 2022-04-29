@@ -1,0 +1,7 @@
+
+            Class Hayate {
+                main() {
+                    result.print("Aoi")::name;
+                }
+            }
+        

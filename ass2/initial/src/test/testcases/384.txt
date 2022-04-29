@@ -1,0 +1,21 @@
+
+        Class a 
+        { 
+            $test_if_stmt()
+            { 
+                Var a: Int = 0;
+                If (a > 0)
+                {
+                   a = a + 1;
+
+                }
+                Elseif (a <= 0)
+                {
+                    a = a * 3;
+                }
+                Else
+                {
+                    a = Program.get(a);
+                }
+            } 
+        }

@@ -1,0 +1,17 @@
+
+            Class Shape {
+                    Val $numOfShape,y,x: Int = 0,3,3+2;
+                    get(){
+                        Val numOfShape,y: Int = 0,3+2;
+                        If(y <4){
+                            Return 0;
+                        }
+                        Elseif(y==2){
+                            Return 1+a;
+                        }
+
+                        
+                    }
+    
+                }
+            

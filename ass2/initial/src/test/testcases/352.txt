@@ -1,0 +1,12 @@
+
+            Class B: C {
+                he() {
+                    wall = smoke + he.explore();
+                }
+            }
+            Class Program {
+                main(a: Int) {
+                    Return a * b;
+                }
+            }
+            

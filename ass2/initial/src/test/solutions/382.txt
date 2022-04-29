@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(A),[MethodDecl(Id(method1),Instance,[param(Id(a),StringType),param(Id(b),StringType),param(Id(c),FloatType),param(Id(d),ClassType(Id(X)))],Block([AssignStmt(FieldAccess(Id(test22),Id($name)),FieldAccess(Id(X),Id($name)))]))])])

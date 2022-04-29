@@ -1,0 +1,10 @@
+
+            Class Program {
+                main() {
+                    Program.Pi();
+                }
+                Pi () { 
+                    Return Pi;
+                }
+            }
+            

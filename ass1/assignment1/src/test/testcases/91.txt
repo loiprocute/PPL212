@@ -1,0 +1,12 @@
+
+            Class Hayate {
+                main() {
+                    If(k > 5){
+                        Return abc;
+                    }
+                    Else{
+                        Return a[2+a[2+2]];
+                    }
+                }
+            }
+        

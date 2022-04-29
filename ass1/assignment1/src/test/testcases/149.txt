@@ -1,0 +1,13 @@
+
+                Class Rectangle: Shape { 
+                    Var $a: Shape = A::$methodA(B.func(-2));
+                    $methodA(){
+                        Var v4: Array[Array[Int,2],3] = Array(
+                            Array(New Rectangle(1,2),New Shape().Rectangle(2,5)),
+                            Array(New Rectangle(a[1],a[2]),New Shape().Rectangle(2/3,-(-2+5))),
+                            Array(New Rectangle(1,2),New Shape().Rectangle(2,5))
+                        );
+                        Return a;
+                    }
+                }
+                

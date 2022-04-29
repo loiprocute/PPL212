@@ -1,0 +1,14 @@
+
+            Class Cat {
+                returnMethod() {
+                    Val xyz: Float;
+                    Var gui, abc, def: Array[Int, 5] = 0xFFF, 123, "huuloi";
+                }
+                Constructor() {
+                    Self.initial = valuenew.test;
+                }
+                Destructor() {
+                    Cat.remove();
+                }
+            }
+        

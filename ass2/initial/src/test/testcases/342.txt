@@ -1,0 +1,8 @@
+
+        Class Test{
+            Val $x: Int = -1;
+            test(){
+                arr[20][10+2] = 2;
+                Return Self.x;
+            }
+        }

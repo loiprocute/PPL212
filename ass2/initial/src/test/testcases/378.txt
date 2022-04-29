@@ -1,0 +1,9 @@
+
+        Class Dog : Animal 
+        { 
+            $_A(a, b, c:Int)
+            { 
+                Var a: String = "Hello"; 
+                Break; 
+            } 
+        }

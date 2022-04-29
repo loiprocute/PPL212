@@ -1,0 +1,9 @@
+
+                Class Rectangle: Shape { 
+                    Var $a: Shape = A::$methodA(B.func(-2));
+                    $methodA(){
+                        Var v1,v2: Int = A::$func(-a[2]),B.func(a[2]+a[3]);
+                        Return a;
+                    }
+                }
+                

@@ -1,0 +1,7 @@
+
+            Class Name : Name {
+                $method() {
+                    Self.a = Self.b + Self.c(Self.d) % Name::$method();
+                }
+            }
+            

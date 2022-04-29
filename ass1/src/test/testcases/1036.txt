@@ -1,0 +1,7 @@
+
+            Class EXO {
+                namemethod() {
+                    Return a[1][6][9] + className.boo()[3];
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class A{
+                method1(a,b: String; c: Float; d: X) {
+                    test22::$name = X::$name;
+                }
+            }
+            

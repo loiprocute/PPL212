@@ -1,0 +1,7 @@
+
+            Class Program {
+                main() {
+                    Chair.name = Table.name +. "1";
+                }
+            }
+        

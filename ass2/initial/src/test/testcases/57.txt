@@ -1,0 +1,10 @@
+
+            Class testArray {
+                Val b: Array[Array[Float, 0b1101], 0x71];
+            }
+            Class testString : testArray {
+                f() {
+                    b = Array("string 1" +. "string 2", 3 + !4, Self.a() * 0x6);
+                }
+            }
+            

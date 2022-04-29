@@ -1,0 +1,12 @@
+
+            Class BUF {
+                Val xyz: Float;
+                Var gui, abc, def: Array[Int, 5] = 0xFF, 1, 2;
+            }
+            Class Program {
+                dethodlove() {
+                    {}
+                    Return Self.namemethod();
+                }
+            }
+        

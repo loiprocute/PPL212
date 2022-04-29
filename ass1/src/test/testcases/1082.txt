@@ -1,0 +1,11 @@
+
+            Class Program {
+                main() {
+                    Foreach (idx In 1 .. 100 + 5 By abc[i] >= 100) {
+                        If (aac[i][4] != bc[2]) {
+                            Return;
+                        }
+                    }
+                }
+            }
+        

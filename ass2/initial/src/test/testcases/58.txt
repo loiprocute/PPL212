@@ -1,0 +1,7 @@
+
+            Class ABC {
+                test() {
+                    Return (100 % b * a / 0x1) && (a.getNum() >= 3) || (b + 9.3 - a[2][07 + 0x1]);
+                }
+            }
+            

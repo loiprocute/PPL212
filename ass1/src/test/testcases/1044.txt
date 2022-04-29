@@ -1,0 +1,6 @@
+
+            Class Bag {
+                Val bag: Int = 0;
+                Val acc: Float = Self.ax.bx.cx().t[7];
+            }
+        

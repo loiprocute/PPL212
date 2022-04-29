@@ -1,0 +1,7 @@
+
+                Class Rectangle: Shape { 
+                    Destructor(a:Int){
+
+                    }
+                }
+                

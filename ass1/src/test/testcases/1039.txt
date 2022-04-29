@@ -1,0 +1,7 @@
+
+            Class Nameclass {               
+                function() {
+                    Return ABC::$namefunc() + xtz();
+                }
+            }
+        

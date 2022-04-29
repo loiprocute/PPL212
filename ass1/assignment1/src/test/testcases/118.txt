@@ -1,0 +1,16 @@
+
+                Class Rectangle: Shape { 
+                    A() {
+                        Var a: Int;
+                        If(1 > 2){
+                            If(1 || 2){
+                            }
+                            Elseif(True){
+                            }
+                        }
+                        Else{
+                            a = 0;
+                        }
+                    }
+                }
+                

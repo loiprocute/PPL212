@@ -1,0 +1,7 @@
+
+        Class A{
+                Var x, $y, z: String;
+                Val a, b, $c: Float = 1.2, 3.e+1, 12_3_4.;
+                Val p: Array[Array[String, 2],2];
+            }
+            

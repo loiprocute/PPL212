@@ -1,0 +1,7 @@
+
+            Class ProgramName {
+                main() {
+                    Return ClassName::test::bx::cx.ox;
+                }
+            }
+        

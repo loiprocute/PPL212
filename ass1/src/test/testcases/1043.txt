@@ -1,0 +1,11 @@
+
+            Class TestName{
+            Var ins, acc: Int;
+            Var $static, $newstatic: Int;
+            
+            Test(){
+                Var a, c, d: Int= Self::ins;
+                Var b, r, d: Int= Self::$static;
+            }
+            }
+        

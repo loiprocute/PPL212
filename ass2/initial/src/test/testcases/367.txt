@@ -1,0 +1,8 @@
+
+                Class Rectangle: Shape { 
+                    Var $a: S = A::$methodA(B.func(-32));
+                    $methodA(){
+                        Return ays;
+                    }
+                }
+                

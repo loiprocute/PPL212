@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(_),[MethodDecl(Id($For),Static,[param(Id(a),FloatType),param(Id(b),IntType)],Block([For(Id(a),IntLit(27),IntLit(2),IntLit(1),Block([VarDecl(Id(temp),IntType),AssignStmt(Id(temp),BinaryOp(-,Id(b),Id(a)))])])]))])])

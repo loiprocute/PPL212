@@ -1,0 +1,7 @@
+
+            Class NotProgram {
+                main() {
+                    a.setNumber[c/d][b.getNumber()] = Name::$getName();
+                }
+            }
+            

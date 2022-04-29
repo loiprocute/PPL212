@@ -1,0 +1,11 @@
+
+        Class main{
+            Var x: Float = 5.25;
+            test()
+            {
+                If(Self.x >= 5)
+                {
+                    Return "";
+                }
+            }
+        }

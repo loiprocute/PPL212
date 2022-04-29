@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(D),[MethodDecl(Id($test_if_stmt),Static,[],Block([VarDecl(Id(a),IntType,IntLit(0)),VarDecl(Id(b),IntType,IntLit(0)),VarDecl(Id(c),IntType,IntLit(0)),If(BinaryOp(==,Id(a),Id(b)),Block([AssignStmt(Id(b),Id(c))]),If(BinaryOp(==,Id(c),Id(a)),Block([AssignStmt(Id(b),Id(a))])))]))])])

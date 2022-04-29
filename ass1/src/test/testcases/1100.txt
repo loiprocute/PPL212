@@ -1,0 +1,27 @@
+
+            Class ABC {
+                getAAA() {
+                    Var b,c,d: Float = 0.3, 0.4, 0.5;
+                }
+                namemethod() {
+                    If (aaa >= bbb) {
+                        Var a: Int = 0;
+                        a = a + 3;
+                    }
+                    Elseif (bbb >= ccc) {
+                        Self.getNameMethod(asc >= bsc);
+                    }
+                    Elseif (ccc >= ddd) {
+                        Self.print("String");
+                    }
+                    else {
+                        __name__ = __abcdef___;
+                        Return num.test::run();
+                    }
+                }
+
+                Test(yes: Boolean) {
+                    Self.test = booool;
+                }
+            }
+            

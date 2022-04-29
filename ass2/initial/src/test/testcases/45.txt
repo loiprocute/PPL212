@@ -1,0 +1,14 @@
+
+            Class Program{
+                main(){
+                    op = 1 + (2 * 3) - (x.y).z;
+                }
+                main()
+                {
+                    Var i : Int = 0b101;
+                }
+                main(){
+                    Return Null;
+                }
+            }
+            

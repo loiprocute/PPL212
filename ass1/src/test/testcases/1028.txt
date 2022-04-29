@@ -1,0 +1,12 @@
+
+            Class Program {
+                main() {
+                    b = name::$test().b();
+                }
+            }
+            Class ABC: DEF {
+                $getname() {
+                    Self.name = test::name;
+                }
+            }
+        

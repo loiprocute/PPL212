@@ -1,0 +1,11 @@
+
+            Class obj {
+                Var _object___, abcd: String = 0, 353;
+            }
+            Class Program {
+                main() {
+                    func(Array("Nguyen", "Thai", "Linh"));
+                    Return Self.arrlist.test();
+                }
+            }
+        

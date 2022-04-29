@@ -1,0 +1,4 @@
+
+            Class IntType { 
+            Var a,b,c,d: Int = 0xA001, 123, 024 , 0B1010;
+            }

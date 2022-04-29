@@ -1,0 +1,9 @@
+
+            Class Hayate {
+                main() {
+                    If(k > 5){
+                        Return result.print("Aoi");
+                    }
+                }
+            }
+        

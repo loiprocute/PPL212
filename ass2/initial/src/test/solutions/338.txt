@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BUF),[AttributeDecl(Instance,ConstDecl(Id(xyz),FloatType,None)),AttributeDecl(Instance,VarDecl(Id(gui),ArrayType(5,IntType),IntLit(255)))])])

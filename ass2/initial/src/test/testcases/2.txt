@@ -1,0 +1,6 @@
+
+        Class Dog { 
+            $test(){
+                Var a: Int;
+            }
+        }

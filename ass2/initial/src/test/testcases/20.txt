@@ -1,0 +1,8 @@
+
+        Class Dog : Animal 
+        { 
+            $testArrayCell()
+            { 
+                a[1][2][3][4] = b[b[2] + 1][3];
+            } 
+        }

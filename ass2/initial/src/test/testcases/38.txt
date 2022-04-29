@@ -1,0 +1,6 @@
+
+            Class Block_stmt{
+                method1(){
+                    {{}{{}}}
+                }
+            }

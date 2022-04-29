@@ -1,0 +1,7 @@
+
+            Class Program {
+                Var bi: Int = ABC::$foo()[1] + aoo.greed() * 4 + !xyz;
+                Var ai: Stu = New Teacher(New Student());
+                Var di: Boolean = 4 >= foo && too <= 2 || 7 == !boo + 3;
+            }
+        

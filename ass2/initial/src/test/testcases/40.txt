@@ -1,0 +1,8 @@
+
+        Class B {
+                method1(x: X){
+                {a = b;}
+                {Var x: Float = .e1;}
+                {a::$b();}
+            }
+        }

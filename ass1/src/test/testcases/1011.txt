@@ -1,0 +1,13 @@
+
+            Class Program {
+                main() {
+                    Stand1.Stand2.getVector();
+                }
+            }
+            Class myClass {
+                Var $test: Int;
+                $method() {
+                    Return Self::$test;
+                }
+            }
+        

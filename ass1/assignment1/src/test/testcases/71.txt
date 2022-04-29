@@ -1,0 +1,12 @@
+
+            Class Cat {
+                returnMethod() {
+                }
+                Constructor() {
+                    Self.initial = valuenew;
+                }
+                Destructor() {
+                    Cat.remove();
+                }
+            }
+        

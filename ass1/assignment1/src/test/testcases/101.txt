@@ -1,0 +1,8 @@
+
+        Class A
+        { 
+            $test()
+            { 
+                Var arr: float = 7E+10;
+            } 
+        }

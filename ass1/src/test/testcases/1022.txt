@@ -1,0 +1,11 @@
+
+            Class Cat: Animal { }
+            Class Rose: Flower { }
+            Class Truuu {
+                Val one,two,three: Int = 1,2;
+                __str__() {
+                    Var one,two,three: Int = 1,2,3;
+                    Val four,five: Int;
+                }
+            }
+            

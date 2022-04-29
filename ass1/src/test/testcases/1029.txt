@@ -1,0 +1,13 @@
+
+            If (aaa >= bbbb) {
+                Return Name;
+            }
+            Class Program {
+                main() {
+                    b = name::$test().b();
+                }
+            }
+            Class Truuu: $Paper {
+                Truu.nameMethod();
+            }
+        

@@ -1,0 +1,10 @@
+
+            Class name {
+                namemethod () {
+                    a = his::$ageage;
+                    b = math::$ageage().bag();
+                    c = dog;
+                    d = cat();
+                }
+            }
+        

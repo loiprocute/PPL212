@@ -1,0 +1,10 @@
+
+            Class Hayate {
+                main() {
+                    result.print("Aoi").abc;
+                    If(k > 5){
+                        return abc;
+                    }
+                }
+            }
+        

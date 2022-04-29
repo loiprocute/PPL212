@@ -1,0 +1,14 @@
+
+            Class Store {
+                MainMenu(a: Int; b: Produce) {
+                    b.Mota();
+                    b.price = 30000;
+                }
+            }
+            Class Produce {
+                Var price : Int;
+                MoTa(){
+                    Return "I love you 3k";
+                }
+            }
+            

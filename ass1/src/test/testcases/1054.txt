@@ -1,0 +1,11 @@
+
+            Class Program {
+                main(){
+                }
+            }
+            Class Design {
+                Destructor() {
+                    Standar.Del().All(1);
+                }
+            }
+        

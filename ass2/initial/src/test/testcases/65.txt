@@ -1,0 +1,10 @@
+
+            Class A {
+                t() {
+                    If ("This is" ==. "expression") { 
+                            Foreach (b In -4 .. 0X123 By n) { }
+                        }
+                    Return !t + y || r;
+                }
+            }
+            

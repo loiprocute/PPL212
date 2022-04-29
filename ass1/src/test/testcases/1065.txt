@@ -1,0 +1,9 @@
+
+            Class myVarName {
+                Constructor(arr: Array[String, -20]) {
+                    Self.atest = q.arr[7];
+                    Self.btest = q.arr[9];
+                    Self.ctest = q.arr[3][4].asc;
+                }
+            }
+        

@@ -1,0 +1,1 @@
+Class Shape {$getNumOfShape() {Var a, b: Array[Int, 5];}}

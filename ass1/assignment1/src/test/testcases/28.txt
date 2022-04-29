@@ -1,0 +1,11 @@
+
+        Class A{
+            Var attribute: Int;
+            testif(){
+                {
+                    a=a[c/d][b.getNumber()].setNumber ;
+                }
+                
+            }
+        }
+        

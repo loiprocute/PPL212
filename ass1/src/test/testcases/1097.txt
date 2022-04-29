@@ -1,0 +1,6 @@
+
+            Class BUF {
+                Val xyz: Float, Int;
+                Var gui: Array[Int, -5] = 0xFF;
+            }
+        

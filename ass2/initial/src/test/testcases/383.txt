@@ -1,0 +1,15 @@
+
+        Class Program
+        { 
+            $test_if_stmt()
+            { 
+                If (a == b)
+                {
+                    a = 1;
+                }
+                Else
+                {
+                    a = -1;
+                }
+            } 
+        }

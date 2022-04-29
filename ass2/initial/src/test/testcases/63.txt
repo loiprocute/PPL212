@@ -1,0 +1,12 @@
+
+            Class Program {
+                main(){
+                    
+                }
+            }
+            Class Program{
+                main(){
+                    Return Program.main();
+                }
+            }
+            
